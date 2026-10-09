@@ -1,0 +1,6 @@
+{
+  "name": "Moliya - Harajatlar va Daromadlar Nazorati",
+  "description": "Foydalanuvchilar o'z harajat va daromadlarini kiritib, moliyaviy hisobotlar va byudjet tahlilini yurituvchi aqlli platforma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
